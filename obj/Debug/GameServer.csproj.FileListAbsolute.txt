@@ -1,0 +1,6 @@
+C:\Users\demon\RiderProjects\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\demon\RiderProjects\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\demon\RiderProjects\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\Users\demon\RiderProjects\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\demon\RiderProjects\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\demon\RiderProjects\GameServer\GameServer\obj\Debug\GameServer.pdb
